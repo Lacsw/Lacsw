@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman 👋
 
-- 🔭 Currently working in [Happy Numbers](https://happynumbers.com/).
+- 🔭 Currently working as Frontend Developer at [Happy Numbers](https://happynumbers.com/).
 - 🌱 I’m currently learning TypeScript and Redux.
 - 📫 How to reach me: [Telegram](https://t.me/frolov_rv)
 
