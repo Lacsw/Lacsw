@@ -1,8 +1,7 @@
 ### Hi there, I'm Roman 👋
 
-- 🔭 Currently working on my pet projects.
+- 🔭 Currently working in [Happy Numbers](https://happynumbers.com/).
 - 🌱 I’m currently learning TypeScript and Redux.
-- 🤔 I’m looking for a job where I can be useful.
 - 📫 How to reach me: [Telegram](https://t.me/frolov_rv)
 
 ## Skills
