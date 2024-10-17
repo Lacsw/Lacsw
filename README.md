@@ -2,7 +2,7 @@
 ### Hi there, I'm Roman 👋
 
 - 🔭 Currently working as Frontend Developer at [Happy Numbers](https://happynumbers.com/).
-- 🌱 I’m currently learning TypeScript and Redux.
+- 🌱 At present I dive into algorithms and app optimization.
 - 📫 How to reach me: [Telegram](https://t.me/frolov_rv)
 
 ## Skills
