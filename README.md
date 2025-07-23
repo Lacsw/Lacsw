@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Roman 👋
 
-- 🔭 Currently working as Frontend Developer at [Happy Numbers](https://happynumbers.com/).
+- 🔭 Currently working as Frontend Developer at [Purpose Green](https://www.purpose-green.com/).
 - 🌱 At present I dive into algorithms and app optimization.
 - 📫 How to reach me: [Telegram](https://t.me/frolov_rv)
 
