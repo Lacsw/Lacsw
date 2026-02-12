@@ -3,7 +3,7 @@
 
 - 🔭 Currently working as Frontend Developer at [Purpose Green](https://www.purpose-green.com/).
 - 🌱 At present I dive into algorithms and app optimization.
-- 📫 How to reach me: [Telegram](https://t.me/frolov_rv)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/r-frolov/)
 
 ## Skills
 ### Development
