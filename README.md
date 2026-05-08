@@ -2,7 +2,6 @@
 
 - 🔭 Currently working as Frontend Developer at [Purpose Green](https://www.purpose-green.com/)
 - 🤖 Exploring AI-assisted development workflows and human-centered AI in frontend
-- 🌱 Diving into algorithms, app optimization, and full-stack architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/r-frolov/)
 
 ## Skills
