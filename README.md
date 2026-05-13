@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman 👋
 
-- 🔭 Currently working as Frontend Developer at [Purpose Green](https://www.purpose-green.com/)
+- 🔭 Currently working as a Software Engineer at [Purpose Green](https://www.purpose-green.com/)
 - 🤖 Exploring AI-assisted development workflows and human-centered AI in frontend
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/r-frolov/)
 
